@@ -10,9 +10,6 @@ First test extension
 
 This is a Webpack project template pre-configured to build a Platform.Bible extension. It includes only the bare essentials required for an extension to work.
 
-Note that the `*.web-view.*` files and the `assets` folder mentioned in [Summary](#summary) are **not** included in this template. For examples of what these might look like, refer to any extension that is based on either this template or the [paranext-multi-extension-template](https://github.com/paranext/paranext-multi-extension-template) — for instance, the [Text Collection extension](https://github.com/paranext/paratext-bible-extensions/tree/main/src/paratext-bible-text-collection).
-
-**Important:** Before proceeding to use this template, consider whether you intend to build a single extension to be packaged and installed independently, or a set of related extensions that should be used together. If the latter, it would be better to use the [template pre-configured to build an arbitrary number of Platform.Bible extensions in one repo](https://github.com/paranext/paranext-multi-extension-template) instead of this template.
 
 ### Customize extension details
 
