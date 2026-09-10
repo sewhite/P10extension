@@ -1,8 +1,8 @@
 <!-- Attention template README maintainers: The content in the portion of this README following the Template Info section roughly parallels that of the paranext-multi-extension-template. When editing one, please consider whether similar changes should also be made in the other.-->
 
-# paranext-extension-template
+# test-extension-1
 
-Basic extension template for Platform.Bible
+First test extension
 
 <!-- <!-- Opening comment tag for Template Info Section. Ignore this for now. More info in [Hide Template Info](#hide-template-info). -->
 
